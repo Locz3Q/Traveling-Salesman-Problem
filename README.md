@@ -1,3 +1,3 @@
-# Travelling-Salesman-Problem
+# Traveling-Salesman-Problem
 
 Problem was solved with evolutionary genetic algorithm
